@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/maazgorcii" target="blank"><img src="https://img.shields.io/twitter/follow/maazgorcii?logo=twitter&style=for-the-badge" alt="maazgorcii" /></a> </p>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Next Js**
 
 - 📫 How to reach me **maaznazeer098@gmail.com**
 
