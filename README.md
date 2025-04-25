@@ -71,7 +71,7 @@
   </a>
 </div>
 
-## 📊 Activity Graph
+## 🐍 Snake Eating my Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MdTehseenKhan/MdTehseenKhan/output/snake.svg" alt="Snake animation" />
