@@ -49,7 +49,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maaz2022&show_icons=true&theme=gruvbox&hide_border=true" alt="maaz2022" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maaz2022&theme=gruvbox&hide_border=true" alt="maaz2022" />
 </div>
 
 ## 🏆 GitHub Achievements
