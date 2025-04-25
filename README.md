@@ -1,24 +1,13 @@
 ![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233)
-<h1 align="center">Hi, I'm Muhammad Maaz</h1>
-<h3 align="center">I am an enthusiastic Software developer based in Karachi, Pakistan</h3>
+# 🏄‍♂️ Muhammad Maaz
 
+**`Digital Craftsman (Developer/Student)`**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maaz2022&label=Profile%20views&color=0e75b6&style=flat" alt="maaz2022" /> </p>
+I'm a full-stack developer passionate about building my version of the digital world—one step at a time. Every project is developed from the ground up, starting with thoughtful planning and design, and culminating in practical solutions to real-world problems through clean, efficient code. I focus on creating robust, scalable applications that blend functionality with purpose.
 
-
-
-<p align="left"> <a href="https://twitter.com/maazgorcii" target="blank"><img src="https://img.shields.io/twitter/follow/maazgorcii?logo=twitter&style=for-the-badge" alt="maazgorcii" /></a> </p>
-
-- 🌱 I’m currently learning **Next Js**
-
-- 📫 How to reach me **maaznazeer098@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/maazgorcii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maazgorcii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/maaz-nazeer-672135231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/maaz-nazeer-672135231" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/md_maaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md_maaz" height="30" width="40" /></a>
-</p>
+   <p align="left">
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/maaz2022?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 ### 🧰 Languages and Tools
 
@@ -32,10 +21,10 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaz2022&show_icons=true&locale=en&layout=compact" alt="maaz2022" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maaz2022&show_icons=true&locale=en" alt="maaz2022" /></p>
