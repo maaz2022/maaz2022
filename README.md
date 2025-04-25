@@ -5,7 +5,7 @@
 
 I'm a full-stack developer passionate about building my version of the digital world—one step at a time. Every project is developed from the ground up, starting with thoughtful planning and design, and culminating in practical solutions to real-world problems through clean, efficient code. I focus on creating robust, scalable applications that blend functionality with purpose.
 
-   <p align="left">
+   <p align="center">
       <a href="https://github.com/maaz2022">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/maaz2022?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
