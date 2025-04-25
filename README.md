@@ -25,8 +25,16 @@ I'm a full-stack developer passionate about building my version of the digital w
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaz2022&show_icons=true&locale=en&layout=compact" alt="maaz2022" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maaz2022&show_icons=true&locale=en" alt="maaz2022" /></p>
+### 📊 Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maaz2022&" alt="maaz2022" /></p>
+![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaz2022&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=maaz2022&theme=gruvbox&border_radius=4.5) -->
+
+#
+<!--
+<details>
+
+  
+[website]: https://muhammadmaazportfolio.vercel.app
