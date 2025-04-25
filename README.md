@@ -1,7 +1,7 @@
 ![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233)
 # 🏄‍♂️ Muhammad Maaz
 
-**`Digital Craftsman (Developer/Student)`**
+**`(Developer/Student)`**
 
 I'm a full-stack developer passionate about building my version of the digital world—one step at a time. Every project is developed from the ground up, starting with thoughtful planning and design, and culminating in practical solutions to real-world problems through clean, efficient code. I focus on creating robust, scalable applications that blend functionality with purpose.
 
