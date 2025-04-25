@@ -58,6 +58,17 @@ I'm a full-stack developer passionate about building my version of the digital w
 
 ![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaz2022&show_icons=true&theme=gruvbox)
 
+## 🏆 Github Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=maaz2022&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!--
+<img src="https://raw.githubusercontent.com/MdTehseenKhan/MdTehseenKhan/output/snake.svg" alt="Snake animation" />
+-->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=maaz2022&theme=gruvbox&border_radius=4.5) -->
 
 #
