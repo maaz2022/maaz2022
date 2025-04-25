@@ -9,6 +9,32 @@ I'm a full-stack developer passionate about building my version of the digital w
       <a href="https://github.com/maaz2022">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/maaz2022?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
+## 🌐 Connect with me
+
+  <a href="https://www.linkedin.com/in/md-tehseen-khan/](https://www.linkedin.com/in/maaz-nazeer-672135231/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
+      width="52" 
+      height="40" 
+      alt="linkedin logo"  
+    />
+  </a>
+  <a href="https://leetcode.com/MdTehseenKhan/](https://leetcode.com/u/md_maaz/" target="blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+      width="40" 
+      height="52" 
+      alt="leetcode logo" 
+    />
+  </a>
+  <a href="mailto:maaznazeer098@gmail.com" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
+      width="52" 
+      height="40" 
+      alt="gmail logo"  
+    />
+  </a>
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
