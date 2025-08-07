@@ -10,11 +10,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/maaz2022">
-    <img src="https://komarev.com/ghpvc/?username=maaz2022&label=Profile%20views&color=0e75b6&style=flat" alt="maaz2022" />
+  <a href="https://github.com/maaznazeer">
+    <img src="https://komarev.com/ghpvc/?username=maaznazeer&label=Profile%20views&color=0e75b6&style=flat" alt="maaznazeer" />
   </a>
-  <a href="https://github.com/maaz2022?tab=followers">
-    <img src="https://img.shields.io/github/followers/maaz2022?label=Followers&style=social" alt="GitHub followers" />
+  <a href="https://github.com/maaznazeer?tab=followers">
+    <img src="https://img.shields.io/github/followers/maaznazeer?label=Followers&style=social" alt="GitHub followers" />
   </a>
 </div>
 
@@ -53,13 +53,13 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maaz2022&show_icons=true&theme=gruvbox&hide_border=true" alt="maaz2022" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maaznazeer&show_icons=true&theme=gruvbox&hide_border=true" alt="maaznazeer" />
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maaz2022&theme=buddhism&no-frame=true&no-bg=true&margin-w=4" alt="maaz2022" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maaznazeer&theme=buddhism&no-frame=true&no-bg=true&margin-w=4" alt="maaznazeer" />
 </div>
 
 ## 🤝 Connect with Me
