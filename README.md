@@ -10,9 +10,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/maaznazeer">
-    <img src="https://komarev.com/ghpvc/?username=maaznazeer&label=Profile%20views&color=0e75b6&style=flat" alt="maaznazeer" />
-  </a>
   <a href="https://github.com/maaznazeer?tab=followers">
     <img src="https://img.shields.io/github/followers/maaznazeer?label=Followers&style=social" alt="GitHub followers" />
   </a>
