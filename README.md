@@ -1,6 +1,6 @@
 # Muhammad Maaz
 
-**Full Stack Developer**  
+**Software Engineer**  
 Software engineer with expertise in modern web technologies, focusing on building scalable applications and clean, maintainable code.
 
 ---
